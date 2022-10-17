@@ -1,4 +1,4 @@
-<h1 align="center">v-google-translate</h1>
+<h1 align="center">s-google-translate</h1>
 <p align="center">google translate for Vue2.x.</p>
 <div align="center">
 
