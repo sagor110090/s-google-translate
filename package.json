@@ -1,9 +1,9 @@
 {
-  "name": "v-google-translate",
+  "name": "s-google-translate",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i7eo/v-google-translate.git"
+    "url": "git+https://github.com/sagor110090/s-google-translate.git"
   },
   "keywords": [
     "Vue2.x",
